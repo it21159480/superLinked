@@ -138,7 +138,8 @@ Optional (Bonus):
                   http://localhost:5173
                ```
   - Sample output
-  - 
+![Sample Screenshot](output.png)
+
   - Tools or libraries you used
   - ## 🧰 Tools and Libraries Used
 
